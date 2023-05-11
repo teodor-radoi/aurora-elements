@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/waterdeep-dungeon-of-the-mad-mage/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/waterdeep-dungeon-of-the-mad-mage/source.xml" />
 		</update>
 	</info>
 	<element name="Waterdeep: Dungeon of the Mad Mage" type="Source" source="Core" id="ID_WOTC_SOURCE_WATERDEEP_DUNGEON_OF_THE_MAD_MAGE">

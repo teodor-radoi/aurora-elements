@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="background-options.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/hoard-of-the-dragon-queen/background-options.xml" />
+			<file name="background-options.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/hoard-of-the-dragon-queen/background-options.xml" />
 		</update>
 	</info>
 	<element name="Optional Feature: Cult of the Dragon Infiltrator" type="Background Feature" source="Hoard of the Dragon Queen" id="ID_WOCT_HOTDQ_BACKGROUND_FEATURE_DRAGON_CULT_INFILTRATOR">

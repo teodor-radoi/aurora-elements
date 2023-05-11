@@ -3,7 +3,7 @@
 	<info>
         <name>Celebrity Adventurer’s Scion</name>
 		<update version="0.0.2">
-			<file name="celebrity-adventurers-scion.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/acquisitions-incorporated/backgrounds/celebrity-adventurers-scion.xml" />
+			<file name="celebrity-adventurers-scion.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/acquisitions-incorporated/backgrounds/celebrity-adventurers-scion.xml" />
 		</update>
 	</info>
 	<element name="Celebrity Adventurer’s Scion" type="Background" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_BACKGROUND_CELEBRITY_ADVENTURERS_SCION">

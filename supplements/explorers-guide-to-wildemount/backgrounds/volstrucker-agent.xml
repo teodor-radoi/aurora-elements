@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="volstrucker-agent.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/explorers-guide-to-wildemount/backgrounds/volstrucker-agent.xml" />
+			<file name="volstrucker-agent.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/explorers-guide-to-wildemount/backgrounds/volstrucker-agent.xml" />
 		</update>
 	</info>
 	<element name="Volstrucker Agent" type="Background" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_BACKGROUND_VOLSTRUCKER_AGENT">

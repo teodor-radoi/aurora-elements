@@ -5,7 +5,7 @@
 		<description>Taking a new look at the tiefling race, this article breaks down the Player’s Handbook tiefling into a modular variant, allowing players to create tiefling characters tied to either a diabolic or a demonic ancestry. Additionally, a new suite of conjuration spells allows casters to call forth demons to do their bidding.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/old-black-magic">Wizards of the Coast</author>
 		<update version="0.0.1">
-			<file name="20151207.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/unearthed-arcana/2015/20151207.xml" />
+			<file name="20151207.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/2015/20151207.xml" />
 		</update>
 	</info>
 

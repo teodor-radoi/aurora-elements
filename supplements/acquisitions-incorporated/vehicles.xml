@@ -3,7 +3,7 @@
     <info>
         <name>Vehicles</name>
         <update version="0.0.1">
-            <file name="vehicles.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/acquisitions-incorporated/vehicles.xml" />
+            <file name="vehicles.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/acquisitions-incorporated/vehicles.xml" />
         </update>
     </info>
 	<element name="Battle Balloon" type="Item" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_ITEM_BATTLE_BALLOON">

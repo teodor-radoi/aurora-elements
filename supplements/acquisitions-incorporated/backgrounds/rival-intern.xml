@@ -3,7 +3,7 @@
 	<info>
         <name>Rival Intern</name>
 		<update version="0.0.2">
-			<file name="rival-intern.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/acquisitions-incorporated/backgrounds/rival-intern.xml" />
+			<file name="rival-intern.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/acquisitions-incorporated/backgrounds/rival-intern.xml" />
 		</update>
 	</info>
 	<element name="Rival Intern" type="Background" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_BACKGROUND_RIVAL_INTERN">

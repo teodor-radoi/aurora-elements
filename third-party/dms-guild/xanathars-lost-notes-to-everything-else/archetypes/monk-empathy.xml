@@ -3,7 +3,7 @@
 	<info>
 		<name>Way of Empathy</name>
 		<update version="0.0.1">
-			<file name="monk-empathy.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/monk-empathy.xml" />
+			<file name="monk-empathy.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/monk-empathy.xml" />
 		</update>
 	</info>
 	

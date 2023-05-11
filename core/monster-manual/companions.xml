@@ -3,7 +3,7 @@
     <info>
         <name>Companions</name>
         <update version="0.0.2">
-            <file name="companions.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/companions.xml" />
+            <file name="companions.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/companions.xml" />
         </update>
     </info>
         

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="shadowmasters-agent.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/backgrounds/shadowmasters-agent.xml" />
+			<file name="shadowmasters-agent.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/backgrounds/shadowmasters-agent.xml" />
 		</update>
 	</info>
 	<element name="Shadowmaster’s Agent" type="Background" source="The Great Dale" id="ID_DMSG_TGD_BACKGROUND_SHADOWMASTERS_AGENT">

@@ -5,7 +5,7 @@
         <description>The Blood Hunter class (v2.0).</description>
         <author url="http://www.dmsguild.com/product/170777/Blood-Hunter-Class">Matthew Mercer</author>
         <update version="0.1.9">
-            <file name="class-bloodhunter.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/critical-role/classes/class-bloodhunter.xml" />
+            <file name="class-bloodhunter.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/critical-role/classes/class-bloodhunter.xml" />
         </update>
     </info>
     <element name="Blood Hunter" type="Class" source="Critical Role" id="ID_CRIT_CLASS_BLOOD_HUNTER">

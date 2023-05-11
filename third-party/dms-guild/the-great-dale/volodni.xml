@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="volodni.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/volodni.xml" />
+			<file name="volodni.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/volodni.xml" />
 		</update>
 	</info>
 	<element name="Volodni" type="Race" source="The Great Dale" id="ID_DMSG_TGD_RACE_VOLODNI">

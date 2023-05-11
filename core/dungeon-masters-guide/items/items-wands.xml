@@ -3,7 +3,7 @@
 	<info>
 		<name>Wands</name>
 		<update version="0.0.4">
-			<file name="items-wands.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/core/dungeon-masters-guide/items/items-wands.xml" />
+			<file name="items-wands.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/dungeon-masters-guide/items/items-wands.xml" />
 		</update>
 	</info>
 	

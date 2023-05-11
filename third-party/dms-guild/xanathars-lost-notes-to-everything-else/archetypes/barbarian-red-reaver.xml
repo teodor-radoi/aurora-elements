@@ -3,7 +3,7 @@
 	<info>
 		<name>Path of the Red Reaver</name>
 		<update version="0.0.1">
-			<file name="barbarian-red-reaver.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/barbarian-red-reaver.xml" />
+			<file name="barbarian-red-reaver.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/barbarian-red-reaver.xml" />
 		</update>
 	</info>
 	

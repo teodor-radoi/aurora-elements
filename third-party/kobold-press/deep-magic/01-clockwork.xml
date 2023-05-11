@@ -3,7 +3,7 @@
 	<info>
 		<name>Deep Magic: Clockwork</name>
 		<update version="0.0.1">
-			<file name="01-clockwork.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/kobold-press/deep-magic/01-clockwork.xml" />
+			<file name="01-clockwork.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/kobold-press/deep-magic/01-clockwork.xml" />
 		</update>
 	</info>
 	

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/rime-of-the-frostmaiden/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/rime-of-the-frostmaiden/source.xml" />
 		</update>
 	</info>	
 	<element name="Icewind Dale: Rime of the Frostmaiden" type="Source" source="Core" id="ID_WOTC_SOURCE_ICEWIND_DALE_RIME_OF_THE_FROSTMAIDEN">

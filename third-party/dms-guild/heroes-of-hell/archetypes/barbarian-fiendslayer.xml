@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="barbarian-fiendslayer.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/heroes-of-hell/archetypes/barbarian-fiendslayer.xml" />
+			<file name="barbarian-fiendslayer.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/heroes-of-hell/archetypes/barbarian-fiendslayer.xml" />
 		</update>
 	</info>	
 	<element name="Fiend Slayer" type="Archetype" source="Heroes of Hell" id="ID_DMSG_HOH_ARCHETYPE_FIEND_SLAYER">

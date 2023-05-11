@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="sources.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/core/dungeon-masters-guide/source.xml" />
+			<file name="sources.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/dungeon-masters-guide/source.xml" />
 		</update>
 	</info>
 	<element name="Dungeon Master’s Guide" type="Source" source="Core" id="ID_WOTC_SOURCE_DUNGEON_MASTERS_GUIDE">

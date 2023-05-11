@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="druid-claw.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dnd-wiki/classes/druid-claw.xml" />
+			<file name="druid-claw.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/classes/druid-claw.xml" />
 		</update>
 	</info>
 

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="rogue-blackflame.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/archetypes/rogue-blackflame.xml" />
+			<file name="rogue-blackflame.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/archetypes/rogue-blackflame.xml" />
 		</update>
 	</info>
 	<element name="Black Flame Zealot" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_BLACK_FLAME_ZEALOT">

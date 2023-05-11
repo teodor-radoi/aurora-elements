@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/rise-of-tiamat/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/rise-of-tiamat/source.xml" />
 		</update>
 	</info>
 	<element name="Rise of Tiamat" type="Source" source="Core" id="ID_WOTC_SOURCE_RISE_OF_TIAMAT">

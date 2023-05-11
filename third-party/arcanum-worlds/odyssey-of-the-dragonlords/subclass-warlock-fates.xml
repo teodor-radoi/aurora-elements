@@ -2,7 +2,7 @@
 <elements>
   <info>
 		<update version="0.0.1">
-			<file name="subclass-warlock-fates.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-warlock-fates.xml" />
+			<file name="subclass-warlock-fates.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-warlock-fates.xml" />
 		</update>
 	</info>
   <element name="The Fates" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_WARLOCK_FATES">

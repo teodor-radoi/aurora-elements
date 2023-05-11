@@ -3,7 +3,7 @@
 	<info>
 		<name>Dragoon</name>
 		<update version="0.0.1">
-			<file name="fighter-dragoon.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/fighter-dragoon.xml" />
+			<file name="fighter-dragoon.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/fighter-dragoon.xml" />
 		</update>
 	</info>
 	

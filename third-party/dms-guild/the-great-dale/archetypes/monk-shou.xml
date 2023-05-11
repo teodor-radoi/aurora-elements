@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="monk-shou.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/archetypes/monk-shou.xml" />
+			<file name="monk-shou.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/archetypes/monk-shou.xml" />
 		</update>
 	</info>	
 	<element name="Shou Disciple" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_SHOU_DISCIPLE">

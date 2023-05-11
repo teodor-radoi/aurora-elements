@@ -3,7 +3,7 @@
 	<info>
 		<name>Unearthed Arcana: Spells and Magic Tattoos</name>
 		<update version="0.0.2">
-			<file name="20200326.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/unearthed-arcana/2020/20200326.xml" />
+			<file name="20200326.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/2020/20200326.xml" />
 		</update>
 	</info>	
 	<element name="Unearthed Arcana: Spells and Magic Tattoos" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_20200326">

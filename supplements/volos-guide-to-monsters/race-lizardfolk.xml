@@ -5,7 +5,7 @@
 		<description></description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
 		<update version="0.1.2">
-			<file name="race-lizardfolk.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/volos-guide-to-monsters/race-lizardfolk.xml" />
+			<file name="race-lizardfolk.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/volos-guide-to-monsters/race-lizardfolk.xml" />
 		</update>
 	</info>
 	<element name="Lizardfolk" type="Race" source="Volo’s Guide to Monsters" id="ID_WOTC_VGTM_RACE_LIZARDFOLK">

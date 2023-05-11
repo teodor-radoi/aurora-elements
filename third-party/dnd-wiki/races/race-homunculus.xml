@@ -2,7 +2,7 @@
 <elements>
     <info>
         <update version="0.0.6">
-            <file name="race-homunculus.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dnd-wiki/races/race-homunculus.xml" />
+            <file name="race-homunculus.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/races/race-homunculus.xml" />
         </update>
     </info>
 

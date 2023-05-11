@@ -5,7 +5,7 @@
 		<description>College of Portraiture from The Compendium of Forgotten Secrets</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="bard-portraiture.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/bard-portraiture.xml" />
+			<file name="bard-portraiture.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/bard-portraiture.xml" />
 		</update>
 	</info>
 	<element name="College of Portraiture" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_COLLEGE_OF_PORTRAITURE">

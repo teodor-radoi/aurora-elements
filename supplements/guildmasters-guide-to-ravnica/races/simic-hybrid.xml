@@ -5,7 +5,7 @@
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica">Guildmasters’ Guide to Ravnica</author>
 		<update version="0.0.5">
-			<file name="simic-hybrid.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/guildmasters-guide-to-ravnica/races/simic-hybrid.xml" />
+			<file name="simic-hybrid.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/guildmasters-guide-to-ravnica/races/simic-hybrid.xml" />
 		</update>
 	</info>
     

@@ -5,7 +5,7 @@
         <description>The Lyceum Student background from the Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.4">
-            <file name="background-lyceumstudent.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/critical-role/taldorei-campaign-setting/backgrounds/background-lyceumstudent.xml" />
+            <file name="background-lyceumstudent.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/critical-role/taldorei-campaign-setting/backgrounds/background-lyceumstudent.xml" />
         </update>
     </info>
     <element name="Lyceum Student" type="Background" source="Critical Role: Tal’Dorei Campaign Setting" id="ID_CRIT_TCS_BACKGROUND_LYCEUM_STUDENT">

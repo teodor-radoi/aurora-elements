@@ -4,7 +4,7 @@
 		<name>Shifter</name>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.1">
-			<file name="subrace-shifter.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/morgrave-miscellany/races/subrace-shifter.xml" />
+			<file name="subrace-shifter.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/morgrave-miscellany/races/subrace-shifter.xml" />
 		</update>
 	</info>
 	<element name="Cliffwalk Shifter" type="Sub Race" source="Morgrave Miscellany" id="ID_DMSG_MGMS_SUBRACE_SHIFTER_CLIFFWALK">

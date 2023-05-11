@@ -3,7 +3,7 @@
 	<info>
 		<name>Discordant</name>
 		<update version="0.0.1">
-			<file name="fighter-discordant.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/fighter-discordant.xml" />
+			<file name="fighter-discordant.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/fighter-discordant.xml" />
 		</update>
 	</info>
 	<element name="Discordant" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_DISCORDANT">

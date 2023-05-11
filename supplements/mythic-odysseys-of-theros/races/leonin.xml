@@ -3,7 +3,7 @@
 	<info>
 		<name>Leonin</name>
 		<update version="0.0.1">
-			<file name="leonin.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/mythic-odysseys-of-theros/races/leonin.xml" />
+			<file name="leonin.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/mythic-odysseys-of-theros/races/leonin.xml" />
 		</update>
 	</info>
 	<element name="Leonin" type="Race" source="Mythic Odysseys of Theros" id="ID_WOTC_MOOT_RACE_LEONIN">

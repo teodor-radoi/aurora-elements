@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="grinner.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/explorers-guide-to-wildemount/backgrounds/grinner.xml" />
+			<file name="grinner.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/explorers-guide-to-wildemount/backgrounds/grinner.xml" />
 		</update>
 	</info>
 	<element name="Grinner" type="Background" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_BACKGROUND_GRINNER">

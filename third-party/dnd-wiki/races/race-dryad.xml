@@ -2,7 +2,7 @@
 <elements>
     <info>
         <update version="0.0.4">
-            <file name="race-dryad.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dnd-wiki/races/race-dryad.xml" />
+            <file name="race-dryad.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/races/race-dryad.xml" />
         </update>
     </info>
 

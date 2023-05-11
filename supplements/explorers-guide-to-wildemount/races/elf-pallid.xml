@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="elf-pallid.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/explorers-guide-to-wildemount/races/elf-pallid.xml" />
+			<file name="elf-pallid.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/explorers-guide-to-wildemount/races/elf-pallid.xml" />
 		</update>
 	</info>
 	<element name="Pallid Elf" type="Sub Race" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_SUB_RACE_PALLID_ELF">

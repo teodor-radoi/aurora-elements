@@ -5,7 +5,7 @@
         <description>The Feats from Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.5">
-            <file name="feats.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/critical-role/taldorei-campaign-setting/feats.xml" />
+            <file name="feats.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/critical-role/taldorei-campaign-setting/feats.xml" />
         </update>
     </info>
     <element name="Cruel" type="Feat" source="Critical Role: Tal’Dorei Campaign Setting" id="ID_CRIT_TCS_FEAT_CRUEL">

@@ -5,7 +5,7 @@
 		<description>Storm Lord Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="warlock-storm-lord.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-storm-lord.xml" />
+			<file name="warlock-storm-lord.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-storm-lord.xml" />
 		</update>
 	</info>
 

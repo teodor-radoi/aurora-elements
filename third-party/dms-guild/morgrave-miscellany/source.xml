@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/morgrave-miscellany/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/morgrave-miscellany/source.xml" />
 		</update>
 	</info>	
 	<element name="Morgrave Miscellany" type="Source" source="Core" id="ID_DMSG_MGMS_SOURCE_MORGRAVE_MISCELLANY">

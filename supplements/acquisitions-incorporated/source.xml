@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/acquisitions-incorporated/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/acquisitions-incorporated/source.xml" />
 		</update>
 	</info>	
 	<element name="Acquisitions Incorporated" type="Source" source="Core" id="ID_WOTC_SOURCE_ACQUISITIONS_INCORPORATED">

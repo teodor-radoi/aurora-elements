@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/sword-coast-adventurers-guide/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/sword-coast-adventurers-guide/source.xml" />
 		</update>
 	</info>
 	<element name="Sword Coast Adventurer’s Guide" type="Source" source="Core" id="ID_WOTC_SOURCE_SWORD_COAST_ADVENTURERS_GUIDE">

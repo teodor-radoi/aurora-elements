@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.3">
-			<file name="items.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/waterdeep-dragon-heist/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/waterdeep-dragon-heist/items.xml" />
 		</update>
 	</info>
     <element name="Adamantine Bar" type="Item" source="Waterdeep: Dragon Heist" id="ID_WOTC_WDH_ITEM_TREASURE_ADAMANTINE_BAR">

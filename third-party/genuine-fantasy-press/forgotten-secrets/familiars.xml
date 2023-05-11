@@ -3,7 +3,7 @@
     <info>
         <name>Familiars</name>
 		<update version="0.0.2">
-			<file name="familiars.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/genuine-fantasy-press/forgotten-secrets/familiars.xml" />
+			<file name="familiars.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press/forgotten-secrets/familiars.xml" />
 		</update>
 	</info>	
 	<element name="Animate Image" type="Companion" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_COMPANION_ANIMATE_IMAGE">

@@ -5,7 +5,7 @@
         <description>The Ashari background from the Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.5">
-            <file name="background-ashari.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/critical-role/taldorei-campaign-setting/backgrounds/background-ashari.xml" />
+            <file name="background-ashari.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/critical-role/taldorei-campaign-setting/backgrounds/background-ashari.xml" />
         </update>
     </info>
     <element name="Ashari" type="Background" source="Critical Role: Tal’Dorei Campaign Setting" id="ID_CRIT_TCS_BACKGROUND_ASHARI">

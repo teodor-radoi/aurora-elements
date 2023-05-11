@@ -3,7 +3,7 @@
 	<info>
 		<name>Totem Warrior Extensions</name>
 		<update version="0.1.3">
-			<file name="barbarian-totemwarrior.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/sword-coast-adventurers-guide/classes/barbarian-totemwarrior.xml" />
+			<file name="barbarian-totemwarrior.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/sword-coast-adventurers-guide/classes/barbarian-totemwarrior.xml" />
 		</update>
 	</info>
 

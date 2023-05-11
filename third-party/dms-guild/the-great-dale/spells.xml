@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/spells.xml" />
 		</update>
 	</info>
 	<element name="Ball Lightning" type="Spell" source="The Great Dale" id="ID_DMSG_TGD_SPELL_BALL_LIGHTNING">

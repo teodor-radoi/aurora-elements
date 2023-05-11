@@ -5,7 +5,7 @@
         <description>The Blood Domain archetype from the Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.4">
-            <file name="cleric-blooddomain.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/critical-role/taldorei-campaign-setting/archetypes/cleric-blooddomain.xml" />
+            <file name="cleric-blooddomain.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/critical-role/taldorei-campaign-setting/archetypes/cleric-blooddomain.xml" />
         </update>
     </info>
     <element name="Blood Domain" type="Archetype" source="Critical Role: Tal’Dorei Campaign Setting" id="ID_CRIT_TCS_ARCHETYPE_CLERIC_BLOOD_DOMAIN">

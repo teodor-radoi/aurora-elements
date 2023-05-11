@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="background-options.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/out-of-the-abyss/background-options.xml" />
+			<file name="background-options.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/out-of-the-abyss/background-options.xml" />
 		</update>
 	</info>
 	<element name="Optional Feature: Deep Delver" type="Background Feature" source="Out of the Abyss" id="ID_WOCT_OOTA_BACKGROUND_FEATURE_DEEP_DELVER">

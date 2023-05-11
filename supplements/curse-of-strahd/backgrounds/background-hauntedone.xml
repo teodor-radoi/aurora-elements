@@ -3,7 +3,7 @@
     <info>
         <name>Haunted One</name>
         <update version="0.0.8">
-            <file name="background-hauntedone.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/curse-of-strahd/backgrounds/background-hauntedone.xml" />
+            <file name="background-hauntedone.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/curse-of-strahd/backgrounds/background-hauntedone.xml" />
         </update>
     </info>
     <element name="Haunted One" type="Background" source="Curse of Strahd" id="ID_COS_BACKGROUND_HAUNTED_ONE">

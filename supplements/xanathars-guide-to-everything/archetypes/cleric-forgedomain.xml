@@ -5,7 +5,7 @@
     <description>The Forge Domain from Xanathar’s Guide to Everything</description>
     <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
     <update version="0.1.3">
-      <file name="cleric-forgedomain.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/xanathars-guide-to-everything/archetypes/cleric-forgedomain.xml" />
+      <file name="cleric-forgedomain.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/xanathars-guide-to-everything/archetypes/cleric-forgedomain.xml" />
     </update>
   </info>
 

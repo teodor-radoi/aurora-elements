@@ -5,7 +5,7 @@
 		<description>Gelatinous Convocation Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.2">
-			<file name="warlock-gelatinous-convocation.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-gelatinous-convocation.xml" />
+			<file name="warlock-gelatinous-convocation.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-gelatinous-convocation.xml" />
 		</update>
 	</info>
 	

@@ -2,7 +2,7 @@
 <elements>
     <info>
         <update version="0.0.3">
-            <file name="subrace-runedwarf.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dnd-wiki/races/subrace-runedwarf.xml" />
+            <file name="subrace-runedwarf.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/races/subrace-runedwarf.xml" />
         </update>
     </info>
 

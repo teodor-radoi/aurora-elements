@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="warlock-eltab.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/archetypes/warlock-eltab.xml" />
+			<file name="warlock-eltab.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/archetypes/warlock-eltab.xml" />
 		</update>
 	</info>	
 	<element name="Eltab, Lord of the Hidden Layer" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_ELTAB_LORD_OF_THE_HIDDEN_LAYER">

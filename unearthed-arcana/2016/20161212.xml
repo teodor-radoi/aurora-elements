@@ -5,7 +5,7 @@
 		<description>Two new Monastic Tradition options arise for the monk in today’s Unearthed Arcana: the Way of the Kensei and the Way of Tranquility. We invite you to read the options' descriptions, make characters with them, and see whether you like them.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/monk-monastic-traditions">Wizards of the Coast</author>
 		<update version="0.0.5">
-			<file name="20161212.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/unearthed-arcana/2016/20161212.xml" />
+			<file name="20161212.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/2016/20161212.xml" />
 		</update>
 	</info>
 

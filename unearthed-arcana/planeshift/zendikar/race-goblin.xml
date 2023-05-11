@@ -5,7 +5,7 @@
 		<description>Goblin Race from Plane Shift: Zendikar</description>
 		<author url="https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf">Planeshift: Zendikar</author>
 		<update version="0.0.1">
-			<file name="race-goblin.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/unearthed-arcana/planeshift/zendikar/race-goblin.xml" />
+			<file name="race-goblin.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/planeshift/zendikar/race-goblin.xml" />
 		</update>
 	</info>
 

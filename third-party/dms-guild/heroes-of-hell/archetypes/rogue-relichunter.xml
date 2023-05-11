@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="rogue-relichunter.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/heroes-of-hell/archetypes/rogue-relichunter.xml" />
+			<file name="rogue-relichunter.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/heroes-of-hell/archetypes/rogue-relichunter.xml" />
 		</update>
 	</info>	
 	<element name="Relic Hunter" type="Archetype" source="Heroes of Hell" id="ID_DMSG_HOH_ARCHETYPE_RELIC_HUNTER">

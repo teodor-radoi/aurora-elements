@@ -3,7 +3,7 @@
 	<info>
 		<name>Hound of the Huntsman</name>
 		<update version="0.0.1">
-			<file name="ranger-huntsman.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/ranger-huntsman.xml" />
+			<file name="ranger-huntsman.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/ranger-huntsman.xml" />
 		</update>
 	</info>	
 	<element name="Hound of the Huntsman" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_HOUND_OF_THE_HUNTSMAN">

@@ -3,7 +3,7 @@
 	<info>
 		<name>Mordenkainen’s Tome of Marvelous Magic</name>
 		<update version="0.0.5">
-			<file name="mordenkainens-tome-of-marvelous-magic.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/mordenkainens-tome-of-marvelous-magic.xml" />
+			<file name="mordenkainens-tome-of-marvelous-magic.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/mordenkainens-tome-of-marvelous-magic.xml" />
 		</update>
 	</info>
 	<element name="Mordenkainen’s Tome of Marvelous Magic" type="Source" source="Core" id="ID_DMSG_MTMM_SOURCE_MORDENKAINENS_TOME_OF_MARVELOUS_MAGIC">

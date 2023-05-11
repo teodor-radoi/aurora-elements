@@ -3,7 +3,7 @@
 	<info>
 		<name>Epic Path: Divine Blessings</name>
 		<update version="0.0.1">
-			<file name="items-gifts.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/items-gifts.xml" />
+			<file name="items-gifts.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/items-gifts.xml" />
 		</update>
 	</info>
 	<element name="Blessing of the Gods" type="Magic Item" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_MAGIC_ITEM_BLESSING_OF_THE_GODS">
