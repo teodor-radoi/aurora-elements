@@ -96,6 +96,7 @@
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_RAY_OF_SICKNESS"/>
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_COLOR_SPRAY"/>
         </rules>
+        <sheet display="false"/>
     </element>
     <element name="Lunar Embodiment Spells 3" type="Archetype Feature" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_3">
         <rules>
@@ -103,6 +104,7 @@
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_BLINDNESS_DEAFNESS"/>
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_ALTER_SELF"/>
         </rules>
+        <sheet display="false"/>
     </element>
     <element name="Lunar Embodiment Spells 5" type="Archetype Feature" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_5">
         <rules>
@@ -110,6 +112,7 @@
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_VAMPIRIC_TOUCH"/>
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_PHANTOM_STEED"/>
         </rules>
+        <sheet display="false"/>
     </element>
     <element name="Lunar Embodiment Spells 7" type="Archetype Feature" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_7">
         <rules>
@@ -117,6 +120,7 @@
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_CONFUSION"/>
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_HALLUCINATORY_TERRAIN"/>
         </rules>
+        <sheet display="false"/>
     </element>
     <element name="Lunar Embodiment Spells 9" type="Archetype Feature" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_9">
         <rules>
@@ -124,6 +128,7 @@
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_HOLD_MONSTER"/>
             <grant type="Spell" spellcasting="Sorcerer" id="ID_PHB_SPELL_MISLEAD"/>
         </rules>
+        <sheet display="false"/>
     </element>
     <element name="Moon Fire" type="Archetype Feature" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_MOON_FIRE">
         <description>
@@ -157,11 +162,15 @@
                 <p>
                     Whenever you use Metamagic on a spell of a school of magic associated with your current Lunar Embodiment phase, you can reduce the sorcery points spent by 1 (minimum 0).
                 </p>
-                <ul>
+                <br/>
+                <p>
                     <li><strong>Full Moon:</strong><p>Abjuration and Divination spells</p></li>
+                </p>
+                <p>
                     <li><strong>New Moon:</strong><p>Evocation and Necromancy spells</p></li>
+                </p>
                     <li><strong>Crescent Moon:</strong><p>Divination and Transmutation</p></li>
-                </ul>
+
             </description>
         </sheet>
     </element>
