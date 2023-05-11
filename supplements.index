@@ -4,7 +4,7 @@
 		<name>Supplements</name>
 		<description>Supplements from Wizards of the Coast to expand your core gaming elements.</description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
-		<update version="0.4.4">
+		<update version="0.4.5">
 			<file name="supplements.index" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements.index" />
 		</update>
 	</info>
@@ -35,7 +35,7 @@
 		<file name="explorers-guide-to-wildemount.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/explorers-guide-to-wildemount.index" />
 		<file name="mythic-odysseys-of-theros.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/mythic-odysseys-of-theros.index" />
 		<file name="rime-of-the-frostmaiden.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/rime-of-the-frostmaiden.index" />
-		<!-- <file name="shadow-of-the-dragon-queen.index" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/shadow-of-the-dragon-queen.index" /> -->
+		<file name="shadow-of-the-dragon-queen.index" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/shadow-of-the-dragon-queen.index" />
 
 		<file name="adventurers-league.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/adventurers-league.index" />
 
