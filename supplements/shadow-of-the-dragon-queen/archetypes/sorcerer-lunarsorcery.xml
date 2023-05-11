@@ -5,7 +5,7 @@
         <description>The Lunar Magic Sorcerous Origin from Shadow of the Dragon Queen</description>
         <author url="https://dndstore.wizards.com/us/product/768936/shadow-of-the-dragon-queen-digital-plus-physical-bundle">Shadow of the Dragon Queen</author>
         <update version="0.1">
-            <file name="sorcerer-lunarsorcery.xml"/>
+            <file name="sorcerer-lunarsorcery.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/shadow-of-the-dragon-queen/archetypes/sorcerer-lunarsorcery.xml"/>
         </update>
     </info>
     <element name="Lunar Sorcery" type="Archetype" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_SORCERER_ARCHETYPE_LUNAR_SORCERY">
@@ -21,15 +21,16 @@
                     You or someone from your lineage has been exposed to the concentrated magic of the moon (or moons) of your world, imbuing you with lunar magic. Perhaps your ancestor was involved in a druidic ritual involving an eclipse, or maybe a mystical fragment of a moon crashed near you. However you came to have your magic, your connection to the moon is obvious when you cast sorcerer spells-perhaps making your pupils glow with the color of a moon from your world, causing spectral manifestations of lunar phases to orbit you, or some other effect.
                 </strong>
             </p>
-            <rules>
-                <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT" level="1"/>
-                <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_MOON_FIRE" level="1"/>
-                <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_BOONS" level="6"/>
-                <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_WAXING_AND_WANING" level="6"/>
-                <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMPOWERMENT" level="14"/>
-                <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_PHENOMENON" level="18"/>
-            </rules>
         </description>
+        <sheet display="false"/>
+        <rules>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT" level="1"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_MOON_FIRE" level="1"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_BOONS" level="6"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_WAXING_AND_WANING" level="6"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMPOWERMENT" level="14"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_PHENOMENON" level="18"/>
+        </rules>
     </element>
     <element name="Lunar Embodiment" type="Archetype Feature" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT">
         <description>

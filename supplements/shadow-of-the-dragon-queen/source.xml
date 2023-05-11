@@ -2,10 +2,10 @@
 <elements>
     <info>
         <update version="0.1">
-            <file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/xanathars-guide-to-everything/source.xml" />
+            <file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/shadow-of-the-dragon-queen/source.xml" />
         </update>
     </info>
-    <element name="Shadow of the Dragon Queen" type="Source" source="Core" id="ID_WOTC_SOURCE_XANATHARS_GUIDE_TO_EVERYTHING">
+    <element name="Shadow of the Dragon Queen" type="Source" source="Core" id="ID_WOTC_SOURCE_SHADOW_OF_THE_DRAGON_QUEEN">
         <description>
             <![CDATA[<p><strong>Dragonlance®: Shadow of the Dragon Queen™ is a tale of conflict and defiance set during the legendary War of the Lance. Create characters from Krynn, the world of the Dragonlance setting, then march them to the front lines of battle against the terrifying Dragon Armies.  A Dungeons & Dragons® adventure that takes characters from 1st to 11th level.</strong></p>]]>
         </description>
