@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="wizard-chronurgy.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/explorers-guide-to-wildemount/archetypes/wizard-chronurgy.xml" />
+			<file name="wizard-chronurgy.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/explorers-guide-to-wildemount/archetypes/wizard-chronurgy.xml" />
 		</update>
 	</info>
 	<element name="Chronurgy Magic" type="Archetype" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_ARCHETYPE_WIZARD_CHRONURGY_MAGIC">

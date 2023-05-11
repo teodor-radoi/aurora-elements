@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/heroes-of-hell/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/heroes-of-hell/source.xml" />
 		</update>
 	</info>
 	<element name="Heroes of Hell" type="Source" source="Core" id="ID_DMSG_HOH_SOURCE_HEROES_OF_HELL">

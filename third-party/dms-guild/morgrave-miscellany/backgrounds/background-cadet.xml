@@ -5,7 +5,7 @@
 		<description>The Cadet Background from Morgrave Miscellany.</description>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.2">
-			<file name="background-cadet.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/morgrave-miscellany/backgrounds/background-cadet.xml" />
+			<file name="background-cadet.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/morgrave-miscellany/backgrounds/background-cadet.xml" />
 		</update>
 	</info>	
 	<element name="Cadet" type="Background" source="Morgrave Miscellany" id="ID_DMSG_MGMS_BACKGROUND_CADET">

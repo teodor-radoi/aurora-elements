@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/out-of-the-abyss/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/out-of-the-abyss/source.xml" />
 		</update>
 	</info>
 	<element name="Out of the Abyss" type="Source" source="Core" id="ID_WOTC_SOURCE_OUT_OF_THE_ABYSS">

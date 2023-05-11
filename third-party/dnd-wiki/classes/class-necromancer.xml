@@ -2,7 +2,7 @@
 <elements>
   <info>
     <update version="0.0.7">
-      <file name="class-necromancer.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/classes/class-necromancer.xml" />
+      <file name="class-necromancer.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dnd-wiki/classes/class-necromancer.xml" />
     </update>
   </info>
 

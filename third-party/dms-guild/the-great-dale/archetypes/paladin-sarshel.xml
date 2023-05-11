@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="paladin-sarshel.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/archetypes/paladin-sarshel.xml" />
+			<file name="paladin-sarshel.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/archetypes/paladin-sarshel.xml" />
 		</update>
 	</info>	
 	<element name="Oath of Sarshel" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_Oath_of_Sarshel">

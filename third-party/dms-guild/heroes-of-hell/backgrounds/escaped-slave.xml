@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="escaped-slave.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/heroes-of-hell/backgrounds/escaped-slave.xml" />
+			<file name="escaped-slave.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/heroes-of-hell/backgrounds/escaped-slave.xml" />
 		</update>
 	</info>	
 	<element name="Escaped Slave" type="Background" source="Heroes of Hell" id="ID_DMSG_HOH_BACKGROUND_ESCAPED_SLAVE">

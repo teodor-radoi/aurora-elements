@@ -2,7 +2,7 @@
 <elements>
   <info>
 		<update version="0.0.1">
-			<file name="subclass-cleric-prophecy.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-cleric-prophecy.xml" />
+			<file name="subclass-cleric-prophecy.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-cleric-prophecy.xml" />
 		</update>
 	</info>
   <element name="Prophecy Domain" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_CLERIC_PROPHECY_DOMAIN">

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/mirts-undermountain-survival-guide/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/mirts-undermountain-survival-guide/source.xml" />
 		</update>
 	</info>
 	<element name="Mirt’s Undermountain Survival Guide" type="Source" source="Core" id="ID_DMSG_MUSG_SOURCE_MIRTS_UNDERMOUNTAIN_SURVIVAL_GUIDE">

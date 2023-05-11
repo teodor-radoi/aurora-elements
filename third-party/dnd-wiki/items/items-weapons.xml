@@ -2,7 +2,7 @@
 <elements>
 	<info>
         <update version="0.1.3">
-            <file name="items-weapons.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/items/items-weapons.xml" />
+            <file name="items-weapons.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dnd-wiki/items/items-weapons.xml" />
         </update>
 	</info>
 

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/guildmasters-guide-to-ravnica/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/guildmasters-guide-to-ravnica/source.xml" />
 		</update>
 	</info>
 	<element name="Guildmasters’ Guide to Ravnica" type="Source" source="Core" id="ID_WOTC_SOURCE_GUILDMASTERS_GUIDE_TO_RAVNICA">

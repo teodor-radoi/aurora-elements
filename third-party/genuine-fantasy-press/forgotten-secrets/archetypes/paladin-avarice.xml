@@ -3,7 +3,7 @@
 	<info>
 		<name>Oath of Avarice</name>
 		<update version="0.0.2">
-			<file name="paladin-avarice.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/paladin-avarice.xml" />
+			<file name="paladin-avarice.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/paladin-avarice.xml" />
 		</update>
 	</info>
 	<element name="Oath of Avarice" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_OATH_OF_AVARICE">

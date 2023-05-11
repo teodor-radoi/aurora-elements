@@ -3,7 +3,7 @@
 	<info>
 		<name>Unearthed Arcana: Cleric, Druid, and Wizard</name>
 		<update version="0.0.4">
-			<file name="20191003.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/2019/20191003.xml" />
+			<file name="20191003.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/unearthed-arcana/2019/20191003.xml" />
 		</update>
 	</info>		
 	<element name="Unearthed Arcana: Cleric, Druid, and Wizard" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_20191003">

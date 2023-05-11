@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="druid-blight.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/archetypes/druid-blight.xml" />
+			<file name="druid-blight.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/archetypes/druid-blight.xml" />
 		</update>
 	</info>	
 	<element name="Circle of Blight" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_CIRCLE_OF_BLIGHT">

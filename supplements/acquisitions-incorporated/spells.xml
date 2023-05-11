@@ -3,7 +3,7 @@
 	<info>
         <name>Spells</name>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/acquisitions-incorporated/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/acquisitions-incorporated/spells.xml" />
 		</update>
 	</info>
 	<element name="Distort Value" type="Spell" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_SPELL_DISTORT_VALUE">

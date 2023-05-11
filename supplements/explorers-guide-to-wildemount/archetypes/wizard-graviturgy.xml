@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.3">
-			<file name="wizard-graviturgy.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/explorers-guide-to-wildemount/archetypes/wizard-graviturgy.xml" />
+			<file name="wizard-graviturgy.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/explorers-guide-to-wildemount/archetypes/wizard-graviturgy.xml" />
 		</update>
 	</info>
 	<element name="Graviturgy Magic" type="Archetype" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_ARCHETYPE_WIZARD_GRAVITURGY_MAGIC">

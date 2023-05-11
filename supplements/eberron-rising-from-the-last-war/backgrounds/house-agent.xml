@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="house-agent.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/eberron-rising-from-the-last-war/backgrounds/house-agent.xml" />
+			<file name="house-agent.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/eberron-rising-from-the-last-war/backgrounds/house-agent.xml" />
 		</update>
 	</info>	
 	<element name="House Agent" type="Background" source="Eberron: Rising from the Last War" id="ID_WOTC_ERLW_BACKGROUND_HOUSE_AGENT">

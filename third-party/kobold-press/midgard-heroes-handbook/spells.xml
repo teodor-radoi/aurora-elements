@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/kobold-press/midgard-heroes-handbook/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/kobold-press/midgard-heroes-handbook/spells.xml" />
 		</update>
 	</info>
 	

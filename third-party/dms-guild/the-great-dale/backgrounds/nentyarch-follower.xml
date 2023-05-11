@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="nentyarch-follower.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/backgrounds/nentyarch-follower.xml" />
+			<file name="nentyarch-follower.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/backgrounds/nentyarch-follower.xml" />
 		</update>
 	</info>	
 	<element name="Nentyarch Follower" type="Background" source="The Great Dale" id="ID_DMSG_TGD_BACKGROUND_NENTYARCH_FOLLOWER">

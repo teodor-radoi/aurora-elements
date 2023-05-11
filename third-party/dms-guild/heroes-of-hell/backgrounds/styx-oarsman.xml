@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="styx-oarsman.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/heroes-of-hell/backgrounds/styx-oarsman.xml" />
+			<file name="styx-oarsman.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/heroes-of-hell/backgrounds/styx-oarsman.xml" />
 		</update>
 	</info>	
 	<element name="Styx Oarsman" type="Background" source="Heroes of Hell" id="ID_DMSG_HOH_BACKGROUND_STYX_OARSMAN">

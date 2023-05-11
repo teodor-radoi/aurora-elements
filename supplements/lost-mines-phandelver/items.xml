@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.3">
-			<file name="items.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/lost-mines-phandelver/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/lost-mines-phandelver/items.xml" />
 		</update>
 	</info>	
 	<element name="Dragonguard" type="Magic Item" source="Lost Mine of Phandelver" id="ID_WOTC_LMOP_MAGIC_ITEM_DRAGONGUARD">

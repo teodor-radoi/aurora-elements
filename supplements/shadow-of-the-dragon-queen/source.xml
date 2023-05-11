@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <update version="0.1">
+            <file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/xanathars-guide-to-everything/source.xml" />
+        </update>
+    </info>
+    <element name="Shadow of the Dragon Queen" type="Source" source="Core" id="ID_WOTC_SOURCE_XANATHARS_GUIDE_TO_EVERYTHING">
+        <description>
+            <![CDATA[<p><strong>Dragonlance®: Shadow of the Dragon Queen™ is a tale of conflict and defiance set during the legendary War of the Lance. Create characters from Krynn, the world of the Dragonlance setting, then march them to the front lines of battle against the terrifying Dragon Armies.  A Dungeons & Dragons® adventure that takes characters from 1st to 11th level.</strong></p>]]>
+        </description>
+        <setters>
+            <set name="abbreviation">SOTDQ</set>
+            <set name="url">https://dndstore.wizards.com/us/product/768936/shadow-of-the-dragon-queen-digital-plus-physical-bundle</set>
+            <set name="image">https://cdn-prod.scalefast.com/public/assets/img/resized/wizardsofthecoast-dnd-beyond/18db7cde4fc5601833c264750cbf3a1d_400_KR.png</set>
+            <set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
+            <set name="errata">https://media.wizards.com/2020/dnd/downloads/XGtE-Errata.pdf</set>
+            <set name="official">true</set>
+            <set name="supplement">true</set>
+            <set name="release">20221206</set>
+        </setters>
+    </element>
+</elements>

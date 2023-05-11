@@ -3,7 +3,7 @@
 	<info>
 		<name>Satyr</name>
 		<update version="0.0.2">
-			<file name="satyr.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/mythic-odysseys-of-theros/races/satyr.xml" />
+			<file name="satyr.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/mythic-odysseys-of-theros/races/satyr.xml" />
 		</update>
 	</info>
 	<element name="Satyr" type="Race" source="Mythic Odysseys of Theros" id="ID_WOTC_MOOT_RACE_SATYR">

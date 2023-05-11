@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1.2">
-			<file name="sources.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/sources.xml" />
+			<file name="sources.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/core/sources.xml" />
 		</update>
 	</info>
 

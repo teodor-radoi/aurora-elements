@@ -3,7 +3,7 @@
 	<info>
         <name>Plaintiff</name>
 		<update version="0.0.2">
-			<file name="plaintiff.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/acquisitions-incorporated/backgrounds/plaintiff.xml" />
+			<file name="plaintiff.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/acquisitions-incorporated/backgrounds/plaintiff.xml" />
 		</update>
 	</info>
     <element name="Plaintiff" type="Background" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_BACKGROUND_PLAINTIFF">

@@ -2,7 +2,7 @@
 <elements>
     <info>
         <update version="0.1.5">
-            <file name="feats.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki/feats.xml" />
+            <file name="feats.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dnd-wiki/feats.xml" />
         </update>
     </info>
 

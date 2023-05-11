@@ -3,7 +3,7 @@
 	<info>
 		<name>The Hexblade</name>
 		<update version="0.0.7">
-			<file name="warlock-hexblade.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/xanathars-guide-to-everything/archetypes/warlock-hexblade.xml" />
+			<file name="warlock-hexblade.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/xanathars-guide-to-everything/archetypes/warlock-hexblade.xml" />
 		</update>
 	</info>
 	<element name="The Hexblade" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_HEXBLADE">

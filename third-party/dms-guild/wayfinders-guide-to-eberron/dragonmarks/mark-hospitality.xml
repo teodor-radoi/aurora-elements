@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.3">
-			<file name="mark-hospitality.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-hospitality.xml" />
+			<file name="mark-hospitality.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-hospitality.xml" />
 		</update>
 	</info>
 

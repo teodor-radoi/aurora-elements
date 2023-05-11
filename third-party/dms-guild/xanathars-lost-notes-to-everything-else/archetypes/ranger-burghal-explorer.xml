@@ -3,7 +3,7 @@
 	<info>
 		<name>Burghal Explorer</name>
 		<update version="0.0.1">
-			<file name="ranger-burghal-explorer.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/ranger-burghal-explorer.xml" />
+			<file name="ranger-burghal-explorer.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/ranger-burghal-explorer.xml" />
 		</update>
 	</info>
 	

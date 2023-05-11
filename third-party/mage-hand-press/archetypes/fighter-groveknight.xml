@@ -5,7 +5,7 @@
         <description>The Grove Knight archetype.</description>
         <author url="http://mfov.magehandpress.com/2018/03/grove-knight.html">Mage Hand Press</author>
         <update version="0.0.2">
-            <file name="fighter-groveknight.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/mage-hand-press/archetypes/fighter-groveknight.xml" />
+            <file name="fighter-groveknight.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/mage-hand-press/archetypes/fighter-groveknight.xml" />
         </update>
     </info>
     

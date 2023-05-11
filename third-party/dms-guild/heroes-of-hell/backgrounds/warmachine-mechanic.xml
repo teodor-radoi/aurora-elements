@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="warmachine-mechanic.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/heroes-of-hell/backgrounds/warmachine-mechanic.xml" />
+			<file name="warmachine-mechanic.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/heroes-of-hell/backgrounds/warmachine-mechanic.xml" />
 		</update>
 	</info>	
 	<element name="Infernal Warmachine Mechanic" type="Background" source="Heroes of Hell" id="ID_DMSG_HOH_BACKGROUND_INFERNAL_WARMACHINE_MECHANIC">

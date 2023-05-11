@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="languages.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/kobold-press/midgard-worldbook/languages.xml" />
+			<file name="languages.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/kobold-press/midgard-worldbook/languages.xml" />
 		</update>
 	</info>
 <!-- 	

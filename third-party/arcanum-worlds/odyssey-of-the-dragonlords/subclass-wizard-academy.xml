@@ -2,7 +2,7 @@
 <elements>
     <info>
 		<update version="0.0.1">
-			<file name="subclass-wizard-academy.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-wizard-academy.xml" />
+			<file name="subclass-wizard-academy.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-wizard-academy.xml" />
 		</update>
 	</info>
 	<element name="Academy Philosopher" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_WIZARD_ACADEMY">

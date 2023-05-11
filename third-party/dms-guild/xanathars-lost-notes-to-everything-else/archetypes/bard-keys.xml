@@ -3,7 +3,7 @@
 	<info>
 		<name>College of Keys</name>
 		<update version="0.0.1">
-			<file name="bard-keys.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/bard-keys.xml" />
+			<file name="bard-keys.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/bard-keys.xml" />
 		</update>
 	</info>
 	

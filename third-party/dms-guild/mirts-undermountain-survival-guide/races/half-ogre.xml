@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="half-ogre.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/mirts-undermountain-survival-guide/races/half-ogre.xml" />
+			<file name="half-ogre.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/mirts-undermountain-survival-guide/races/half-ogre.xml" />
 		</update>
 	</info>
 	<element name="Half-Ogre" type="Race" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_RACE_HALF_OGRE">

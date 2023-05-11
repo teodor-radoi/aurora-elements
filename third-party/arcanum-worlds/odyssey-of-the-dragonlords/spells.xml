@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/spells.xml" />
 		</update>
 	</info>
 	<element name="Animal Polymorph" type="Spell" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_SPELL_ANIMAL_POLYMORPH">

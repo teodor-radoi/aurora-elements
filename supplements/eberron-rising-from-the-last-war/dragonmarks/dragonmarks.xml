@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="dragonmarks.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/eberron-rising-from-the-last-war/dragonmarks/dragonmarks.xml" />
+			<file name="dragonmarks.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/eberron-rising-from-the-last-war/dragonmarks/dragonmarks.xml" />
 		</update>
 	</info>
 	

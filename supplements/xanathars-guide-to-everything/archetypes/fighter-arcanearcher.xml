@@ -3,7 +3,7 @@
 	<info>
 		<name>Arcane Archer</name>
 		<update version="0.0.9">
-			<file name="fighter-arcanearcher.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/xanathars-guide-to-everything/archetypes/fighter-arcanearcher.xml" />
+			<file name="fighter-arcanearcher.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/xanathars-guide-to-everything/archetypes/fighter-arcanearcher.xml" />
 		</update>
 	</info>
 	<element name="Arcane Archer" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_FIGHTER_ARCANE_ARCHER">

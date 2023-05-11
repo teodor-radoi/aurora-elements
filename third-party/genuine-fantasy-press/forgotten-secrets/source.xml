@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press/forgotten-secrets/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/genuine-fantasy-press/forgotten-secrets/source.xml" />
 		</update>
 	</info>
 	<element name="The Compendium of Forgotten Secrets" type="Source" source="Core" id="ID_GFP_SOURCE_FORGOTTEN_SECRETS">

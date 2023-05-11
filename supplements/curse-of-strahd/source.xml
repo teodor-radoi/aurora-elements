@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/curse-of-strahd/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/curse-of-strahd/source.xml" />
 		</update>
 	</info>
 	<element name="Curse of Strahd" type="Source" source="Core" id="ID_WOTC_SOURCE_CURSE_OF_STRAHD">

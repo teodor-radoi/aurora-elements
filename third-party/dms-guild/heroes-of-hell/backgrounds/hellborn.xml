@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="hellborn.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/heroes-of-hell/backgrounds/hellborn.xml" />
+			<file name="hellborn.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/heroes-of-hell/backgrounds/hellborn.xml" />
 		</update>
 	</info>
 	<element name="Hellborn" type="Background" source="Heroes of Hell" id="ID_DMSG_HOH_BACKGROUND_HELLBORN">

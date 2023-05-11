@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.3">
-			<file name="items.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/explorers-guide-to-wildemount/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/explorers-guide-to-wildemount/items.xml" />
 		</update>
 	</info>
 

@@ -3,7 +3,7 @@
 	<info>
 		<name>Oath of Judgment</name>
 		<update version="0.0.1">
-			<file name="paladin-judgment.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/paladin-judgment.xml" />
+			<file name="paladin-judgment.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/paladin-judgment.xml" />
 		</update>
 	</info>
 	<element name="Oath of Judgment" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_OATH_OF_JUDGMENT">

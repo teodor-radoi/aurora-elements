@@ -3,7 +3,7 @@
     <info>
         <name>Character Backgrounds</name>
         <update version="0.0.1">
-            <file name="background-options.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/descent-into-avernus/backgrounds/background-options.xml" />
+            <file name="background-options.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/descent-into-avernus/backgrounds/background-options.xml" />
         </update>
     </info>	
 	<element name="Baldur’s Gate Feature: Religious Community" type="Background Feature" source="Baldur’s Gate: Descent into Avernus" id="ID_WOCT_BGDIA_BACKGROUND_FEATURE_RELIGIOUS_COMMUNITY">

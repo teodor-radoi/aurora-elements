@@ -3,7 +3,7 @@
 	<info>
 		<name>Swordmage</name>
 		<update version="0.0.1">
-			<file name="class-swordmage.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/classes/class-swordmage.xml" />
+			<file name="class-swordmage.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/classes/class-swordmage.xml" />
 		</update>
 	</info>
 	<element name="The Swordmage" type="Source" source="Core" id="ID_DMSG_AA_SOURCE_THE_SWORDMAGE">

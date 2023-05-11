@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/eberron-rising-from-the-last-war/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/eberron-rising-from-the-last-war/source.xml" />
 		</update>
 	</info>
 	<element name="Eberron: Rising from the Last War" type="Source" source="Core" id="ID_WOTC_SOURCE_EBERRON_RISING_FROM_THE_LAST_WAR">

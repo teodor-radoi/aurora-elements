@@ -3,7 +3,7 @@
 	<info>
 		<name>Unearthed Arcana: Bard and Paladin</name>
 		<update version="0.0.3">
-			<file name="20190918.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/2019/20190918.xml" />
+			<file name="20190918.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/unearthed-arcana/2019/20190918.xml" />
 		</update>
 	</info>	
 	<element name="Unearthed Arcana: Bard and Paladin" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_20190918">

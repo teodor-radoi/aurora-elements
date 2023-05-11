@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/storm-kings-thunder/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/storm-kings-thunder/source.xml" />
 		</update>
 	</info>
 	<element name="Storm King’s Thunder" type="Source" source="Core" id="ID_WOTC_SOURCE_STORM_KINGS_THUNDER">

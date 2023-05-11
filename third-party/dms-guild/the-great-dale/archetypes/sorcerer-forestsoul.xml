@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="sorcerer-forestsoul.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/archetypes/sorcerer-forestsoul.xml" />
+			<file name="sorcerer-forestsoul.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/archetypes/sorcerer-forestsoul.xml" />
 		</update>
 	</info>	
 	<element name="Forest Soul" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_FOREST_SOUL">

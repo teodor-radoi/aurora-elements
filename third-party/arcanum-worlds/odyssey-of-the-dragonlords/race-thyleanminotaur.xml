@@ -2,7 +2,7 @@
 <elements>
   <info>
 		<update version="0.0.1">
-			<file name="race-thyleanminotaur.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/race-thyleanminotaur.xml" />
+			<file name="race-thyleanminotaur.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/race-thyleanminotaur.xml" />
 		</update>
 	</info>
   <element name="Thylean Minotaur" type="Race" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_RACE_THYLEAN_MINOTAUR">

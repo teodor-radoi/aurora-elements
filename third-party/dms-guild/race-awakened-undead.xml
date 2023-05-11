@@ -5,7 +5,7 @@
         <description>Awakened Undead Race from DM's Guild.</description>
         <author url="https://www.dmsguild.com/browse.php?author=Walrock%20Homebrew">Walrock Homebrew</author>
         <update version="0.0.5">
-            <file name="race-awakened-undead.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/race-awakened-undead.xml" />
+            <file name="race-awakened-undead.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/race-awakened-undead.xml" />
         </update>
     </info>
 		

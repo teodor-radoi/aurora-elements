@@ -5,7 +5,7 @@
 		<description>Today we're offering another batch of feats to playtest. This time, the feats are associated with the races in the <i>Player’s Handbook</i>.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/feats-races">Wizards of the Coast</author>
 		<update version="0.0.4">
-			<file name="20170424.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/2017/20170424.xml" />
+			<file name="20170424.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/unearthed-arcana/2017/20170424.xml" />
 		</update>
 	</info>
 

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="sorcerer-raumathari.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/archetypes/sorcerer-raumathari.xml" />
+			<file name="sorcerer-raumathari.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/archetypes/sorcerer-raumathari.xml" />
 		</update>
 	</info>
 	<element name="Raumathari Battlemage" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_RAUMATHARI_BATTLEMAGE">

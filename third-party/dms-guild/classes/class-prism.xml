@@ -3,7 +3,7 @@
     <info>
         <name>Prism: Light &amp; Magic</name>
         <update version="0.0.4">
-            <file name="class-prism.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/classes/class-prism.xml" />
+            <file name="class-prism.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/classes/class-prism.xml" />
         </update>
     </info>
     

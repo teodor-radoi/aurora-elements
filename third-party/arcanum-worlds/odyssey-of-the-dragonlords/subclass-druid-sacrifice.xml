@@ -2,7 +2,7 @@
 <elements>
   <info>
 		<update version="0.0.1">
-			<file name="subclass-druid-sacrifice.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-druid-sacrifice.xml" />
+			<file name="subclass-druid-sacrifice.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-druid-sacrifice.xml" />
 		</update>
 	</info>
   <element name="Circle of Sacrifice" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_DRUID_SACRIFICE">

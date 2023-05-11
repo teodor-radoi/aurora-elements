@@ -3,7 +3,7 @@
 	<info>
 		<name>Languages</name>
 		<update version="0.0.1">
-			<file name="languages.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/languages.xml" />
+			<file name="languages.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/core/players-handbook/languages.xml" />
 		</update>
 	</info>
 

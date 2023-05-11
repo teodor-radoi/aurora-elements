@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="druid-stone.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/druid-stone.xml" />
+			<file name="druid-stone.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/druid-stone.xml" />
 		</update>
 	</info>
 	<element name="Cirle of Stone" type="Archetype" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_ARCHETYPE_CIRLE_OF_STONE">

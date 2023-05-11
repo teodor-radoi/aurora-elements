@@ -3,7 +3,7 @@
 	<info>
 		<name>Unearthed Arcana: Psionic Options Revisited</name>
 		<update version="0.0.1">
-			<file name="20200414.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/unearthed-arcana/2020/20200414.xml" />
+			<file name="20200414.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/unearthed-arcana/2020/20200414.xml" />
 		</update>
 	</info>	
 	<element name="Unearthed Arcana: Psionic Options Revisited" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_20200414">

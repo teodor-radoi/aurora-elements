@@ -3,7 +3,7 @@
 	<info>
 		<name>Survival Domain</name>
 		<update version="0.0.1">
-			<file name="cleric-survival-domain.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/cleric-survival-domain.xml" />
+			<file name="cleric-survival-domain.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/cleric-survival-domain.xml" />
 		</update>
 	</info>
 	

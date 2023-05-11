@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="ranger-favored-enemies.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/ranger-favored-enemies.xml" />
+			<file name="ranger-favored-enemies.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/ranger-favored-enemies.xml" />
 		</update>
 	</info>
 	<element name="Derro" type="Class Feature" source="Mordenkainen’s Tome of Foes" id="ID_WOTC_MTF_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_DERRO">

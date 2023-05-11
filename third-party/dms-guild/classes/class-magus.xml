@@ -3,7 +3,7 @@
 	<info>
 		<name>The Magus</name>
 		<update version="0.0.4">
-			<file name="class-magus.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/classes/class-magus.xml" />
+			<file name="class-magus.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/classes/class-magus.xml" />
 		</update>
 	</info>
 	

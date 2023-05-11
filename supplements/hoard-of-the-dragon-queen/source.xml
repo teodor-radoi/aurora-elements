@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/hoard-of-the-dragon-queen/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/hoard-of-the-dragon-queen/source.xml" />
 		</update>
 	</info>
 	<element name="Hoard of the Dragon Queen" type="Source" source="Core" id="ID_WOTC_SOURCE_HOARD_OF_THE_DRAGON_QUEEN">

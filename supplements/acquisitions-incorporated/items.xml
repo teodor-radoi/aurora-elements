@@ -3,7 +3,7 @@
 	<info>
         <name>Items</name>
 		<update version="0.0.3">
-			<file name="items.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/acquisitions-incorporated/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/acquisitions-incorporated/items.xml" />
 		</update>
 	</info>
 	<element name="Orrery of the Wanderer" type="Magic Item" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_MAGIC_ITEM_ORRERY_OF_THE_WANDERER">

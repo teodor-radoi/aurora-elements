@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="demon-tained.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/the-great-dale/backgrounds/demon-tained.xml" />
+			<file name="demon-tained.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/third-party/dms-guild/the-great-dale/backgrounds/demon-tained.xml" />
 		</update>
 	</info>	
 	<element name="Demon Tainted" type="Background" source="The Great Dale" id="ID_DMSG_TGD_BACKGROUND_DEMON_TAINTED">

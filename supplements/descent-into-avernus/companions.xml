@@ -2,7 +2,7 @@
 <elements>
     <info>
         <update version="0.0.1">
-            <file name="companions.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/descent-into-avernus/companions.xml" />
+            <file name="companions.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/descent-into-avernus/companions.xml" />
         </update>
     </info>
 	<element name="Abyssal Chicken" type="Companion" source="Baldur’s Gate: Descent into Avernus" id="ID_WOTC_BGDIA_COMPANION_ABYSSAL_CHICKEN">
