@@ -5,7 +5,7 @@
         <description>Dragonlance: Shadow of the Dragon Queen is a tale of conflict and defiance set during the legendary War of the Lance. Create characters from Krynn, the world of the Dragonlance setting, then march them to the front lines of battle against the terrifying Dragon Armies.  A Dungeons and Dragons adventure that takes characters from 1st to 11th level.</description>
         <author url="https://dndstore.wizards.com/us/product/768936/shadow-of-the-dragon-queen-digital-plus-physical-bundle">Wizards of the Coast</author>
         <update version="0.1">
-            <file name="shadowofthedragonqueen.index" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/shadowofthedragonqueen.index"/>
+            <file name="shadow-of-the-dragon-queen.index" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/shadow-of-the-dragon-queen.index" />
         </update>
     </info>
     <files>
