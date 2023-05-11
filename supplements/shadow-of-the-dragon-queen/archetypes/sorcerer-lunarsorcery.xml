@@ -11,16 +11,8 @@
     <element name="Lunar Sorcery" type="Archetype" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_SORCERER_ARCHETYPE_LUNAR_SORCERY">
         <supports>Sorcerous Origin</supports>
         <description>
-            <p>
-                <strong>
-                    On many worlds, the moon is a revered celestial body with magical properties. On Krynn, the gods of magic are associated with the world's three moons. On the world of Toril, the god Selûne uses the light of the moon to battle darkness. On Eberron, scholars of the Draconic Prophecy decipher ancient secrets from the waxing and waning of that world's twelve moons.
-                </strong>
-            </p>
-            <p>
-                <strong>
-                    You or someone from your lineage has been exposed to the concentrated magic of the moon (or moons) of your world, imbuing you with lunar magic. Perhaps your ancestor was involved in a druidic ritual involving an eclipse, or maybe a mystical fragment of a moon crashed near you. However you came to have your magic, your connection to the moon is obvious when you cast sorcerer spells-perhaps making your pupils glow with the color of a moon from your world, causing spectral manifestations of lunar phases to orbit you, or some other effect.
-                </strong>
-            </p>
+            <p>On many worlds, the moon is a revered celestial body with magical properties. On Krynn, the gods of magic are associated with the world's three moons. On the world of Toril, the god Selûne uses the light of the moon to battle darkness. On Eberron, scholars of the Draconic Prophecy decipher ancient secrets from the waxing and waning of that world's twelve moons.</p>
+            <p class="indent">You or someone from your lineage has been exposed to the concentrated magic of the moon (or moons) of your world, imbuing you with lunar magic. Perhaps your ancestor was involved in a druidic ritual involving an eclipse, or maybe a mystical fragment of a moon crashed near you. However you came to have your magic, your connection to the moon is obvious when you cast sorcerer spells-perhaps making your pupils glow with the color of a moon from your world, causing spectral manifestations of lunar phases to orbit you, or some other effect.</p>
             <div element="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT"/>
             <div element="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_MOON_FIRE"/>
             <div element="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_BOONS"/>
