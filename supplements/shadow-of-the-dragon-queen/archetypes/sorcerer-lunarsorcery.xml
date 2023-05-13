@@ -28,6 +28,11 @@
             <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_WAXING_AND_WANING" level="6"/>
             <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMPOWERMENT" level="14"/>
             <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_PHENOMENON" level="18"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_1" level="1"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_3" level="3"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_5" level="5"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_7" level="7"/>
+            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_9" level="9"/>
         </rules>
     </element>
     <element name="Lunar Embodiment" type="Archetype Feature" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT">
@@ -82,13 +87,6 @@
         <sheet usage="1/Long Rest">
             <description>While in the chosen phase, you can cast one 1st-level spell of the associated phase in the Lunar Spells table once without expending a spell slot.</description>
         </sheet>
-        <rules>
-            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_1" level="1"/>
-            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_3" level="3"/>
-            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_5" level="5"/>
-            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_7" level="7"/>
-            <grant type="Archetype Feature" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_9" level="9"/>
-        </rules>
     </element>
     <element name="Lunar Embodiment Spells 1" type="Archetype Feature" source="Shadow of the Dragon Queen" id="ID_WOTC_SOTDQ_ARCHETYPE_FEATURE_LUNAR_SORCERY_LUNAR_EMBODIMENT_LVL_1">
         <rules>
