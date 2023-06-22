@@ -20,25 +20,41 @@
             <p>Clerics who serve these deities-examples of which appear on the Twilight Deities
                 table-bring comfort to those who seek rest and protect them by venturing into the
                 encroaching darkness to ensure that the dark is a comfort, not a terror.</p>
-                <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_SPELLS"/>
-                <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_BONUS_PROFICIENCIES"/>
-                <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_EYES_OF_NIGHT"/>
-                <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_VIGILANT_BLESSING"/>
-                <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_CHANNELDIVINITY_TWILIGHT_SANCTUARY"/>
-                <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_STEPS_OF_NIGHT"/>
-                <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_DIVINE_STRIKE"/>
-                <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_TWILIGHT_SHROUD"/>
+            <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_SPELLS" />
+            <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_BONUS_PROFICIENCIES" />
+            <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_EYES_OF_NIGHT" />
+            <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_VIGILANT_BLESSING" />
+            <div
+                element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_CHANNELDIVINITY_TWILIGHT_SANCTUARY" />
+            <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_STEPS_OF_NIGHT" />
+            <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_DIVINE_STRIKE" />
+            <div element="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_TWILIGHT_SHROUD" />
         </description>
-            <rules>
-      <grant type="Archetype Feature" id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_SPELLS" level="1"/>
-      <grant type="Archetype Feature" id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_BONUS_PROFICIENCIES" level="1"/>
-      <grant type="Archetype Feature" id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_EYES_OF_NIGHT" level="1"/>
-      <grant type="Archetype Feature" id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_VIGILANT_BLESSING" level="1"/>
-      <grant type="Archetype Feature" id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_CHANNELDIVINITY_TWILIGHT_SANCTUARY" level="2"/>
-      <grant type="Archetype Feature" id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_STEPS_OF_NIGHT" level="6"/>
-      <grant type="Archetype Feature" id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_DIVINE_STRIKE" level="8"/>
-      <grant type="Archetype Feature" id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_TWILIGHT_SHROUD" level="17"/>
-    </rules>
+        <sheet display="false">
+            <description />
+        </sheet>
+        <rules>
+            <grant type="Archetype Feature"
+                id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_SPELLS" level="1" />
+            <grant type="Archetype Feature"
+                id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_BONUS_PROFICIENCIES"
+                level="1" />
+            <grant type="Archetype Feature"
+                id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_EYES_OF_NIGHT" level="1" />
+            <grant type="Archetype Feature"
+                id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_VIGILANT_BLESSING"
+                level="1" />
+            <grant type="Archetype Feature"
+                id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_CHANNELDIVINITY_TWILIGHT_SANCTUARY"
+                level="2" />
+            <grant type="Archetype Feature"
+                id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_STEPS_OF_NIGHT" level="6" />
+            <grant type="Archetype Feature"
+                id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_DIVINE_STRIKE" level="8" />
+            <grant type="Archetype Feature"
+                id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_TWILIGHT_SHROUD"
+                level="17" />
+        </rules>
     </element>
     <element name="Domain Spells" type="Archetype Feature" source="Tasha's Cauldron of Everything"
         id="ID_WOTC_TCOE_ARCHETYPE_FEATURE_CLERIC_TWILIGHT_DOMAIN_SPELLS">
@@ -85,7 +101,7 @@
                 </tr>
             </table>
         </description>
-        <sheet>
+        <sheet display="false">
             <description />
         </sheet>
         <rules>
@@ -118,7 +134,7 @@
         <description>
             <p>At 1st level, you gain proficiency with martial weapons and heavy armor.</p>
         </description>
-        <sheet>
+        <sheet display="false">
             <description />
         </sheet>
         <rules>
@@ -150,6 +166,8 @@
         </sheet>
         <rules>
             <grant type="Vision" id="ID_VISION_DARKVISION" />
+            <stat name="darkvision:increase" value="300"/>
+			<stat name="darkvision:range" value="darkvision:increase" bonus="increase"/>
         </rules>
     </element>
     <element name="Vigilant Blessing" type="Archetype Feature"
