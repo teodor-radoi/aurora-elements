@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+        <name>Tasha's Cauldron of Everything</name>
+        <description>The wizard Tasha, whose great works include the spell Tasha’s hideous laughter, has gathered bits and bobs of precious lore during her illustrious career as an adventurer. Her enemies wouldn’t want these treasured secrets scattered across the multiverse, so in defiance, she has collected and codified these tidbits for the enrichment of all.</description>
+        <author url="https://dnd.wizards.com/products/tashas-cauldron-everything">Wizards of the Coast</author>
+        <update version="0.1">
+            <file name="tashascauldronofeverything.index" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/tashascauldronofeverything.index" />
+        </update>
+    </info>
+    <files>
+        <file name="source.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/tashas-cauldron-of-everything/source.xml"/>
+        
+        <!-- archetypes-->
+        <file name="cleric-twilightdomain.xml" url="https://raw.githubusercontent.com/teodor-radoi/aurora-elements/master/supplements/tashas-cauldron-of-everything/archetypes/cleric-twilightdomain.xml"/>
+    </files>
+</index>
