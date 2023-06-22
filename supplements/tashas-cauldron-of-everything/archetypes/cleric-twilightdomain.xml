@@ -167,7 +167,7 @@
         <rules>
             <grant type="Vision" id="ID_VISION_DARKVISION" />
             <stat name="darkvision:increase" value="300"/>
-			<stat name="darkvision:range" value="darkvision:increase" bonus="increase"/>
+			<stat name="darkvision:range" value="darkvision:increase" bonus="base"/>
         </rules>
     </element>
     <element name="Vigilant Blessing" type="Archetype Feature"
